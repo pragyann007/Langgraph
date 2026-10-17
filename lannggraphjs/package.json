@@ -1,0 +1,22 @@
+{
+  "name": "lannggraphjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.18",
+    "@langchain/langgraph": "^1.5.1",
+    "langchain": "^1.5.18"
+  }
+}
